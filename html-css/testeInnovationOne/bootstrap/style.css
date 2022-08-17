@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    font:normal 20px ,serif; 
+}
+.navbar{
+    background-color:yellowgreen;
+}
+.quem-somos{
+    background-color: aqua;
+}
+.margin{
+    /*margin-top: 30px;*/
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: rgb(0, 68, 253);
+}
+.bg-footer{
+    background-color: chartreuse;
+}
